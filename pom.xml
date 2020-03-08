@@ -12,7 +12,7 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.12</version>
-            <!-- junit的版�?�?3.x, 4.x, 5.x 5.x还没有发�?, 现在都用�?4.x -->
+            <!-- junit的版本有3.x, 4.x, 5.x 5.x还没有发布, 现在都用是4.x -->
         </dependency>
     </dependencies>
 
